@@ -1,4 +1,5 @@
 .DS_Store
 catboost_info/
 keras_tuner/
+notes/
 model*.csv
