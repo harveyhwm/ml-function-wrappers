@@ -2,4 +2,5 @@
 catboost_info/
 keras_tuner/
 notes/
+.ipynb_checkpoints/
 model*.csv
